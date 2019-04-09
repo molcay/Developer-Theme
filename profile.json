@@ -1,0 +1,249 @@
+{
+  "name": "James Lee",
+  "desc": "Web App Developer",
+  "avatarURL": "assets/images/profile.png",
+  "socials": {
+    "twitter": "#",
+    "linkedin": "#",
+    "github": "#",
+    "stackOverflow": "#"
+  },
+  "aboutMe": [
+    "Write a brief intro about yourself. It's a good idea to include your personal interests and hobbies as well. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec. Commodo ligula eget dolor. Aenean massa."
+  ],
+  "latestProjects": {
+    "featured": [
+      {
+        "title": "Appify",
+        "subtitle": "The perfect Bootstrap 4 admin template for app developers",
+        "summary": "You can promote your main project here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+        "image": {
+          "badgeText": "New",
+          "URL": "assets/images/projects/project-featured.jpg"
+        },
+        "external": {
+          "text": "Back my project",
+          "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/startup/velocity-bootstrap-theme-for-startup-products/"
+        }
+      }
+    ],
+    "others": [
+      {
+        "name": "Instance - Bootstrap 4 Portfolio Theme for Aspiring Full Stack Developers",
+        "summary": "You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.",
+        "imageURL": "assets/images/projects/project-1.png",
+        "external": {
+          "text": "Find out more",
+          "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/resume/instance-bootstrap-portfolio-theme-for-developers/"
+        }
+      },
+      {
+        "name": "DevStudio - Bootstrap 4 Theme for WebDev Agencies and Freelance Developers",
+        "summary": "You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.",
+        "imageURL": "assets/images/projects/project-2.png",
+        "external": {
+          "text": "Find out more",
+          "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/startup/devstudio-bootstrap-theme-for-web-development-agencies-and-developers/"
+        }
+      },
+      {
+        "name": "Startup Kit - Bootstrap 4 Theme for SaaS Startups",
+        "summary": "You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.",
+        "imageURL": "assets/images/projects/project-3.png",
+        "external": {
+          "text": "Find out more",
+          "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/startup/startupkit-bootstrap-theme-for-saas-startups/"
+        }
+      },
+      {
+        "name": "Nova Pro - Bootstrap 4 Theme for Mobile Startups",
+        "summary": "You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus.",
+        "imageURL": "assets/images/projects/project-4.png",
+        "external": {
+          "text": "Find out more",
+          "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/startup/bootstrap-template-for-mobile-apps-nova-pro/"
+        }
+      },
+      {
+        "name": "Delta - Bootstrap 4 Theme for Promoting Mobile Apps",
+        "summary": "You can put one of your secondary projects here. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.",
+        "imageURL": "assets/images/projects/project-5.png",
+        "external": {
+          "text": "Find out more",
+          "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/startup/delta-bootstrap-theme-for-mobile-apps/"
+        }
+      }
+    ]
+  },
+  "otherProjects": [
+    {
+      "name": "Pillar - Free Bootstrap 4 Resume/CV Template for Developers",
+      "badgeText": "Free",
+      "summary": "Provide a brief description of your project. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatu.",
+      "external": {
+        "text": "Download Now",
+        "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap4-resume-cv-template-for-developers-pillar/"
+      }
+    },
+    {
+      "name": "DevBlog - Free Bootstrap 4 Blog Template for Developers",
+      "badgeText": "Free",
+      "summary": "Provide a brief description of your project. Maecenas ornare ultricies risus, in fermentum augue consectetur in. Vestibulum vitae mauris iaculis, sollicitudin velit in, molestie nulla.",
+      "external": {
+        "text": "Download Now",
+        "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/speciality/devblog-free-bootstrap-4-blog-template-for-developers/"
+      }
+    },
+    {
+      "name": "Nova - Free App Landing Page Template for App Developers",
+      "badgeText": "Free",
+      "summary": "Provide a brief description of your project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vel purus enim. Etiam tortor felis, fermentum ac ultrices sed.",
+      "external": {
+        "text": "Download Now",
+        "URL": "https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/"
+      }
+    }
+  ],
+  "otherProjectsExternal": {
+    "text": "More on CoderWall",
+    "URL": "#"
+  },
+  "experiences": [
+    {
+      "title": "Co-Founder & Lead Developer",
+      "company": {
+        "name": "Startup Hub",
+        "externalURL": "#"
+      },
+      "startYear": "2014",
+      "endYear": "Present",
+      "descriptions": [
+        "Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": {
+        "name": "Google",
+        "externalURL": "#"
+      },
+      "startYear": "2013",
+      "endYear": "2014",
+      "descriptions": [
+        "Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": {
+        "name": "eBay",
+        "externalURL": "#"
+      },
+      "startYear": "2012",
+      "endYear": "2013",
+      "descriptions": [
+        "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum."
+      ]
+    }
+  ],
+  "address": {
+    "location": "San Francisco, US",
+    "email": "jameslee@website.com",
+    "website": "https://www.website.com"
+  },
+  "skills": {
+    "summary": "Intro about your skills goes here. Keep the list lean and only show your primary skillset. You can always provide a link to your Linkedin or Coderwall profile so people can get more info there.",
+    "skillList": [
+      {
+        "name": "Python & Django",
+        "proficiency": "Expert",
+        "level": 96
+      },
+      {
+        "name": "Javascript & jQuery",
+        "proficiency": "Expert",
+        "level": 96
+      },
+      {
+        "name": "HTML5, CSS3, SASS & LESS",
+        "proficiency": "Expert",
+        "level": 96
+      },
+      {
+        "name": "Ruby on Rails",
+        "proficiency": "Pro",
+        "level": 85
+      }
+    ]
+  },
+  "educations": [
+    {
+      "degree": "MSc Computer Science",
+      "college": "University College London",
+      "startYear": "2011",
+      "endYear": "2012"
+    },
+    {
+      "degree": "BSc Computer Science",
+      "college": "University of Bristol",
+      "startYear": "2008",
+      "endYear": "2011"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Native Speaker",
+      "indicator": 10
+    },
+    {
+      "name": "Spanish",
+      "level": "Professional Proficiency ",
+      "indicator": 7
+    }
+  ],
+  "favoriteMusics": [
+    {
+      "title": "Etiam hendrerit urna nunc",
+      "externalURL": "#"
+    },
+    {
+      "title": "Ut sollicitudin in mauris non auctor",
+      "externalURL": "#"
+    },
+    {
+      "title": "Etiam hendrerit urna nunc",
+      "externalURL": "#"
+    },
+    {
+      "title": "Duis et felis bibendum",
+      "externalURL": "#"
+    }
+  ],
+  "conferences": [
+    {
+      "name": "WWDC 2020",
+      "location": "San Francisco",
+      "externalURL": "#"
+    },
+    {
+      "name": "Hive",
+      "location": "Seattle",
+      "externalURL": "#"
+    }
+  ],
+  "plugins": {
+    "githubCalendar": {
+      "active": true,
+      "username": "IonicaBizau"
+    },
+    "githubActivityFeed": {
+      "active": true,
+      "username": "mdo"
+    },
+    "rss": {
+      "active": true,
+      "url": "https://feeds.feedburner.com/TechCrunch/startups"
+    }
+  }
+}
